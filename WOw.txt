@@ -1,1 +1,2 @@
-print("wow");
+print("wow, it's you?");
+print("no, way!");
